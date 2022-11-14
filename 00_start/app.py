@@ -12,6 +12,7 @@ st.image(image)
 st.write(
     """
     # 필수항목만 넣은 페이지
+    > 너굴맨이 처리했으니 안심하라구
     ## 관련 문서
     * [Streamlit 문서 보러가기](https://docs.streamlit.io/library/api-reference)
     * [Markdown 사용법 보러가기](https://goddaehee.tistory.com/307)
